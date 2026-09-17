@@ -1,0 +1,12 @@
+{
+  "source": "Derived by applying the analyze-outfit-aesthetic Skill to all 23 photos in data/favorite_outfits/, then looking across the results for what repeats. See data/favorite_outfits/aesthetic_analysis.json for the per-outfit records this was built from.",
+  "dominant_proportion": "Fitted or structured top (crop top, corset, tube top, cami, wrap top) with a loose/voluminous bottom (baggy or wide-leg jeans, long tiered skirt). Appears in the large majority of outfits. A secondary, smaller pattern is fitted-top with a short fitted mini skirt.",
+  "necklines_and_tops": "Strong preference for open necklines and bare shoulders: strapless/tube tops, halters, corsets, v-necks, and spaghetti-strap camis. No crew-neck or turtleneck tops appear at all.",
+  "color_palette_tendency": "Mostly neutral (black, white, cream, grey, denim blue) with exactly one small saturated color accent per outfit - most often a pink/blush shoulder bag, occasionally a red/burgundy piece or a hot-pink underlayer. Two or more saturated colors are almost never combined in the same outfit.",
+  "jewelry_pattern": "Gold jewelry appears in nearly every outfit - hoop earrings, layered thin necklaces, and thin bracelets/bangles are the most common. Silver/other metals essentially never appear (one pearl necklace is the only exception).",
+  "bag_pattern": "When a bag is visible, it is almost always a small shoulder bag, frequently in blush pink or cream/white - it is often the single 'pop of color' in an otherwise neutral outfit.",
+  "texture_and_fabric_pattern": "Denim is the most common bottom fabric. Tops vary across lace, satin/silky, floral mesh, crochet, and knit - generally soft/lightweight fabrics rather than stiff or structured ones (the corset tops are the main exception).",
+  "visual_density_pattern": "Mostly minimal to moderate. At most one printed or patterned piece per outfit; multiple busy patterns are never combined together.",
+  "contrast_pattern": "Mostly medium contrast. The high-contrast outfits come from black-vs-light-denim or black-vs-white combinations rather than opposite hues on the color wheel.",
+  "how_to_use_this_profile": "When recommending an outfit from the real wardrobe (data/wardrobe.json), prefer: a fitted/structured top (tube top, corset, crop top) with a baggy/loose bottom OR a fitted top with a short skirt; gold jewelry; at most one small saturated color accent, ideally via a bag; no more than one printed/patterned item."
+}
